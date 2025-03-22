@@ -1,6 +1,3 @@
-// Nour Helmy
-// 202202012
-
 #ifndef MY_SHELL
 #define MY_SHELL
 
