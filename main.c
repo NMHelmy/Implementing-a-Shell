@@ -1,6 +1,3 @@
-// Nour Helmy
-// 202202012
-
 #include "my_shell.h"
 
 #include <stdio.h>
